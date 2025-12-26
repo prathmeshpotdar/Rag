@@ -1,0 +1,7 @@
+Submission Note
+
+What I’m most proud of
+I’m most proud of the prompt design and iteration. I focused on strictly constraining the LLM to answer only from retrieved context, enforcing clear structure and explicit refusal when information is missing. This helped avoid hallucinations while keeping answers concise and grounded in the policy documents.
+
+One thing I’d improve next
+With more time, I would add a reranking step and automated evaluation (LLM-as-judge) to better handle ambiguous or overlapping policy clauses and systematically measure answer quality at scale.
