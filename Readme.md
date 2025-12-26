@@ -8,25 +8,25 @@ git clone https://github.com/prathmeshpotdar/Rag
 
 cd rag-policy-assistant
 
-2. Create Virtual Environment
+### 2. Create Virtual Environment
 
 Copy code
 python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
 
-3. Install Dependencies
+### 3. Install Dependencies
 
 Copy code
 pip install -r requirements.txt
 
-4. Add API Key
+### 4. Add API Key
 Create a .env file:
 
 txt
 Copy code
 OPENAI_API_KEY=your_api_key_here
 
-5. Run
+### 5. Run
 bash
 Copy code
 python rag.py
