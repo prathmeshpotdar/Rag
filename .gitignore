@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# FAISS index (optional)
+*.index
