@@ -56,7 +56,9 @@ Top-K relevant chunks are retrieved per question
 
 The LLM is prompted to answer strictly from retrieved context
 
+
 Prompts Used
+
 
 Prompt Version 1 (Initial)
 text
@@ -110,6 +112,7 @@ Do you support international returns?	✅ (Correctly refused)
 Is cash on delivery available?	✅ (Out of scope handled)
 
 Scoring Legend
+
 ✅ Correct & grounded
 
 ⚠️ Partially answerable
