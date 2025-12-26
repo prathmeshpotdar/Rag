@@ -5,6 +5,7 @@
 ### 1. Clone Repository
 
 git clone https://github.com/prathmeshpotdar/Rag
+
 cd rag-policy-assistant
 
 2. Create Virtual Environment
